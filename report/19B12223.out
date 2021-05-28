@@ -1,0 +1,28 @@
+\BOOKMARK [1][-]{section.1}{1-A\) イブプロフェン構造式}{}% 1
+\BOOKMARK [1][-]{section.2}{1-D\) lnKa 値を計算する関数の設計}{}% 2
+\BOOKMARK [1][-]{section.3}{1-E\) 学習器に Lasso 回帰を用いた際のハイパーパラメータ等について}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{最適化したハイパーパラメータ}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{各ハイパーパラメータの探索範囲}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{ハイパーパラメータ探索方法}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{最良ハイパーパラメータ}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{最良ハイパーパラメータにおける cross validation 中の lnKa 値の RMSE と lnKa 値の相関係数 R}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{1-F\) Cyclic peptide drug の予測における lnKa値の RMSE , lnKa 値の相関係数 R}{}% 9
+\BOOKMARK [1][-]{section.5}{1-G\) E\)とF\)の予測精度の比較・考察}{}% 10
+\BOOKMARK [1][-]{section.6}{1-H\) 重要な記述子についての考察}{}% 11
+\BOOKMARK [1][-]{section.7}{1-I\) Lasso 回帰の代わりに Random Forest Regression を行った結果}{}% 12
+\BOOKMARK [2][-]{subsection.7.1}{ハイパーパラメータ探索までのコードについて}{section.7}% 13
+\BOOKMARK [3][-]{subsubsection.7.1.1}{データ取得}{subsection.7.1}% 14
+\BOOKMARK [3][-]{subsubsection.7.1.2}{説明変数・目的変数の作成}{subsection.7.1}% 15
+\BOOKMARK [2][-]{subsection.7.2}{Random Forest Regressor のハイパーパラメータについて}{section.7}% 16
+\BOOKMARK [3][-]{subsubsection.7.2.1}{最適化したハイパーパラメータ}{subsection.7.2}% 17
+\BOOKMARK [3][-]{subsubsection.7.2.2}{各ハイパーパラメータの探索範囲}{subsection.7.2}% 18
+\BOOKMARK [3][-]{subsubsection.7.2.3}{ハイパーパラメータ探索方法}{subsection.7.2}% 19
+\BOOKMARK [3][-]{subsubsection.7.2.4}{最良ハイパーパラメータ}{subsection.7.2}% 20
+\BOOKMARK [3][-]{subsubsection.7.2.5}{最良ハイパーパラメータにおける cross validation 中の lnKa 値の RMSE と lnKa 値の相関係数 R}{subsection.7.2}% 21
+\BOOKMARK [2][-]{subsection.7.3}{Cyclic peptide drug の予測における lnKa値の RMSE , lnKa 値の相関係数 R}{section.7}% 22
+\BOOKMARK [2][-]{subsection.7.4}{重要な記述子についての考察}{section.7}% 23
+\BOOKMARK [2][-]{subsection.7.5}{目的変数を変えた時の予測精度の比較・考察}{section.7}% 24
+\BOOKMARK [1][-]{section.8}{2-c\) 予測精度の向上のために行ったこと}{}% 25
+\BOOKMARK [2][-]{subsection.8.1}{Dragon 7.0 の利用}{section.8}% 26
+\BOOKMARK [2][-]{subsection.8.2}{CORALSEA の利用}{section.8}% 27
+\BOOKMARK [2][-]{subsection.8.3}{ Random Forest Regression における重要度に基づいて記述子を絞り込む}{section.8}% 28
